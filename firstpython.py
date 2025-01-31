@@ -1,6 +1,6 @@
 #Display the output
-
-print("New Python File")
+welcome = "New Python File"
+print(welcome)
 
 new = [1, 2, 3, 4, 5]
 print(new)
